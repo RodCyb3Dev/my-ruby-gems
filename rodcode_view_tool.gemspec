@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["rodcode47"]
   spec.email         = ["rodney.hammad@gmail.com"]
 
-  spec.summary       = %q{This will Specifiy my veiw methods for the application I use.}
-  spec.description   = %q{Provides generated HTML data for my Rails applications}
+  spec.summary       = %q{this is used for a particular purpose for various veiw specific methods for the applications I use.}
+  spec.description   = %q{provides generated HTML data for my rails applications}
   spec.homepage      = "https://byrodney.info"
   spec.license       = "MIT"
 
