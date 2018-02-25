@@ -1,6 +1,6 @@
 # RodcodeViewTool
 
-Welcome to rodcode_view_tool gem! this is used for a particular purpose for various veiw specific methods for the applications I use.
+> Welcome to rodcode_view_tool gem! this is used for a particular purpose for various veiw specific methods for the applications I use.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RodcodeViewTool::Renderer.copyright 'Rodney Hammad', 'All rights reserved'
+```
 
 ## Development
 
