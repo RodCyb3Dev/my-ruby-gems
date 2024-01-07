@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["rodcode47"]
   spec.email         = ["rodney.hammad@gmail.com"]
 
-  spec.summary       = %q{this is used for a particular purpose for various veiw specific methods for the applications I use.}
+  spec.summary       = %q{this is used for a particular purpose for various view specific methods for the applications I use.}
   spec.description   = %q{provides generated HTML data for my rails applications}
-  spec.homepage      = "https://byrodney.info"
+  spec.homepage      = "https://kodeflash.dev"
   spec.license       = "MIT"
 
   
