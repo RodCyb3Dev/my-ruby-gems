@@ -6,7 +6,7 @@ require "rodcode_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "rodcode_view_tool"
   spec.version       = RodcodeViewTool::VERSION
-  spec.authors       = ["rodcode47"]
+  spec.authors       = ["RodCyb3Dev"]
   spec.email         = ["rodney.hammad@gmail.com"]
 
   spec.summary       = %q{this is used for a particular purpose for various view specific methods for the applications I use.}
